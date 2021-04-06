@@ -1,5 +1,9 @@
 {
-  "private": true,
+	"author" : { "email" : "matt@dev.mattdanielbrown.com", "name" : "Matt Daniel Brown" } ,
+	"description" : "About\nFetch API Request Usage Demo, The Remote / Data Site (the site which the fetch request is sent to, responding with data sent back to host site)." ,
+	"name" : "fetch-demo--data" ,
+	"version" : "1.1.0" ,
+	"private": true,
   "engines": {
     "node": ">=4"
   },
