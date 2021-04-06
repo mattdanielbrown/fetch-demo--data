@@ -1,0 +1,82 @@
+[{
+  "row": 1,
+  "id": "9d78b7ea-ae4c-41f2-86f9-8ac1f3d3647f",
+  "title": "Pokemon: The Movie 2000",
+  "genre": "Adventure|Animation|Children|Fantasy",
+  "release_date": "1978-12-13",
+  "release_year": 1978,
+  "rating": 9.0
+}, {
+  "row": 2,
+  "id": "b9a55539-888e-42c0-bfcc-3126cb8ede4f",
+  "title": "Man with the Iron Fists, The",
+  "genre": "Action|Adventure|Crime",
+  "release_date": "1948-03-21",
+  "release_year": 1948,
+  "rating": 6.4
+}, {
+  "row": 3,
+  "id": "d49cd0ec-6146-401a-aa12-094ea171aa1b",
+  "title": "What's Cooking?",
+  "genre": "Drama",
+  "release_date": "1930-07-07",
+  "release_year": 1930,
+  "rating": 8.9
+}, {
+  "row": 4,
+  "id": "361246fa-b8f6-4225-978b-de213498cd49",
+  "title": "Planet of Dinosaurs",
+  "genre": "Drama|Sci-Fi",
+  "release_date": "1936-02-26",
+  "release_year": 1936,
+  "rating": 2.7
+}, {
+  "row": 5,
+  "id": "b073b461-2d3f-4306-b6d3-b0a8453198f8",
+  "title": "The Heart Machine",
+  "genre": "Drama|Thriller",
+  "release_date": "1999-04-10",
+  "release_year": 1999,
+  "rating": 5.0
+}, {
+  "row": 6,
+  "id": "06d8521d-cf0d-4d50-b4c1-c02072c89786",
+  "title": "Grand Illusion (La grande illusion)",
+  "genre": "Drama|War",
+  "release_date": "1926-12-20",
+  "release_year": 1926,
+  "rating": 3.0
+}, {
+  "row": 7,
+  "id": "40ef5317-7351-4436-ac7e-aec55fd46f72",
+  "title": "Visitors, The",
+  "genre": "Crime|Drama|Thriller",
+  "release_date": "2010-02-16",
+  "release_year": 2010,
+  "rating": 4.6
+}, {
+  "row": 8,
+  "id": "4ae6dd55-fc23-4b53-8b3a-867e8f48f69f",
+  "title": "Salut cousin!",
+  "genre": "Comedy|Drama",
+  "release_date": "1988-04-15",
+  "release_year": 1988,
+  "rating": 8.1
+}, {
+  "row": 9,
+  "id": "bb90d569-17ac-4416-9668-b8f4a57b0c36",
+  "title": "Pootie Tang",
+  "genre": "Comedy",
+  "release_date": "1952-04-27",
+  "release_year": 1952,
+  "rating": 2.7
+}, {
+  "row": 10,
+  "id": "878df15b-87df-4797-a97b-008ef9337f62",
+  "title": "Antares",
+  "genre": "Drama",
+  "release_date": "1987-06-16",
+  "release_year": 1987,
+  "rating": 1.4
+}]
+
