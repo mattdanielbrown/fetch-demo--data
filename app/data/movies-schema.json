@@ -1,0 +1,49 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/10-RandomMovie"
+    },
+    "definitions": {
+        "10-RandomMovie": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "genre": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string",
+                    "format": "uuid"
+                },
+                "rating": {
+                    "type": "number"
+                },
+                "release_date": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "release_year": {
+                    "type": "integer"
+                },
+                "row": {
+                    "type": "integer"
+                },
+                "title": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "genre",
+                "id",
+                "rating",
+                "release_date",
+                "release_year",
+                "row",
+                "title"
+            ],
+            "title": "10-RandomMovie"
+        }
+    }
+}
+
